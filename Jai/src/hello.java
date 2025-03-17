@@ -6,6 +6,7 @@ public class hello {
 		int n=10;
 		int i=1;
 		int c=0;
+		System.out.printla(n);
 		do {
 			if(n%i==0) {
 				c++;
